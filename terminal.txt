@@ -1,0 +1,6 @@
+1) git flow init
+2) git flow feature start feature
+3) mkdir
+4) git branch
+5) rm -rf 
+
